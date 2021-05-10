@@ -17,11 +17,11 @@ const Footer = () => (
           <br />
           Evento promovido pela escola DevSuperior:{" "}
           <a
-            href="https://instagram.com/brancherfabiano"
+            href="https://instagram.com/fabianobrancher"
             target="_blank"
             rel="noreferrer"
           >
-            @brancherfabiano
+            @fabianobrancher
           </a>
         </small>
       </p>
